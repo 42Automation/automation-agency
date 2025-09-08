@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/context-rot",
+      "destination": "https://truth-flag-b8d.notion.site/Exploring-Context-Rot-in-LLM-267ef38082b380058310c739fde874f3?source=copy_link",
+      "permanent": false
+    },
+    {
+      "source": "/context-rot/",
+      "destination": "https://truth-flag-b8d.notion.site/Exploring-Context-Rot-in-LLM-267ef38082b380058310c739fde874f3?source=copy_link",
+      "permanent": false
+    }
+  ]
+}
+
